@@ -40,3 +40,62 @@ span {
   margin-left: 190px;
   color: #fff;
 }
+
+/* 페이지 title */
+.title_1 {
+  text-align: center;
+  font-size: 29px;
+  font-weight: 900;
+}
+
+/* 단말 종류 */
+.device {
+  display: flex;
+  justify-content: center;
+  width: 350px;
+  height: 60px;
+  background-color: #cec3c3;
+  margin-left: 25px;
+  border-radius: 12px;
+}
+
+.device p {
+  font-size: 18px;
+  color: rgb(61, 96, 126);
+}
+
+/* 복구방법과 발생빈도 */
+.two_block {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* 복구 방법 */
+.solve {
+  width: 160px;
+  height: 60px;
+  background-color: #cec3c3;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.solve p {
+  font-size: 18px;
+  color: rgb(61, 96, 126);
+}
+
+.time_i {
+  width: 160px;
+  height: 60px;
+  background-color: #cec3c3;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.time_i p {
+  font-size: 18px;
+  color: rgb(61, 96, 126);
+}
