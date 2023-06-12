@@ -5,6 +5,11 @@ body {
   font-family: "Noto Sans KR", sans-serif;
 }
 
+a {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
 .main_box {
   margin-top: 80px;
   background-color: #fff;
