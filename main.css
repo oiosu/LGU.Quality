@@ -41,3 +41,12 @@ span {
   margin-top: 80px;
   margin-right: 10px;
 }
+
+.img {
+  display: flex;
+  justify-content: center;
+}
+
+.img img {
+  width: 200px;
+}
