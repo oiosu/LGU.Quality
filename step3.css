@@ -133,3 +133,24 @@ span {
   font-weight: 600;
   margin-right: 20px;
 }
+
+/* FW 버전 입력칸 */
+.enter_fw {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fw_title {
+  margin-top: 0;
+  font-size: 19px;
+  font-weight: 600;
+  margin-left: 43px;
+}
+
+.fw_text {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 98px;
+  color: #4e3838;
+}
