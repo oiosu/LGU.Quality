@@ -6,6 +6,11 @@ body {
   font-family: "Noto Sans KR", sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .step1_box {
   margin-top: 80px;
   background-color: #fff;
