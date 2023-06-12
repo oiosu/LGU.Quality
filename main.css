@@ -68,3 +68,21 @@ span {
   width: 260px;
   height: 1px;
 }
+
+.btn {
+  display: flex;
+  justify-content: center;
+  margin-left: 118px;
+  margin-top: 20px;
+  background-color: #000;
+  width: 150px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.login_btn {
+  color: #fff;
+  font-weight: 900px;
+  font-size: 19px;
+  margin-top: 10px;
+}
