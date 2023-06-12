@@ -49,3 +49,29 @@ span {
   font-weight: 600;
   margin-left: 30px;
 }
+
+/* 이슈선택 */
+.choose {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(232, 76, 32);
+  width: 340px;
+  height: 160px;
+  border-radius: 30px;
+  margin-left: 24px;
+}
+
+.choose_1 {
+  text-align: center;
+  color: #fff;
+}
+
+.choose_1 .text_1 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.choose_1 .text_2 {
+  font-size: 17px;
+}
