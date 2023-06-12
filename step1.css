@@ -11,3 +11,24 @@ body {
   width: 400px;
   height: 700px;
 }
+
+.nav {
+  background-color: gray;
+  width: 400px;
+  height: 28px;
+}
+
+span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.time_1 {
+  margin-left: 22px;
+  color: #fff;
+}
+
+.time_2 {
+  margin-left: 190px;
+  color: #fff;
+}
