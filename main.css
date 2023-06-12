@@ -53,8 +53,9 @@ span {
 
 .enter {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   margin-top: 30px;
+  margin-left: 70px;
 }
 
 .id {
@@ -62,7 +63,8 @@ span {
   color: darkgrey;
 }
 
-.pass {
-  font-size: 18px;
-  color: darkgrey;
+.hr_1 {
+  background-color: darkgrey;
+  width: 260px;
+  height: 1px;
 }
