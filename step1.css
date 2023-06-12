@@ -1,0 +1,13 @@
+body {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.step1_box {
+  margin-top: 80px;
+  background-color: #fff;
+  width: 400px;
+  height: 700px;
+}
