@@ -49,13 +49,14 @@ span {
 
 .product {
   margin-top: 30px;
-  display: flex;
+  display: inline-flexbox;
   justify-content: center;
+  margin-left: 60px;
 }
 
 .iptv {
   width: 300px;
-  height: 100px;
+  height: 90px;
   background-color: rgb(137, 67, 67);
   border-radius: 280px;
   text-align: center;
@@ -66,9 +67,29 @@ span {
   font-size: 25px;
   font-weight: 900px;
   margin-bottom: 0px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .iptv_text_2 {
   color: #fff;
+}
+
+.internet {
+  width: 300px;
+  height: 90px;
+  background-color: rgb(6, 137, 124);
+  border-radius: 280px;
+  text-align: center;
+}
+
+.internet_1 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 900px;
+  margin-top: 20px;
+}
+
+.internet_2 {
+  color: #fff;
+  margin-top: 0;
 }
