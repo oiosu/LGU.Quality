@@ -154,3 +154,74 @@ span {
   margin-right: 98px;
   color: #4e3838;
 }
+
+/* 상세 내용 및 시간/ 동영상 첨부 */
+.detail {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.detail .detail_title {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.detail .hr {
+  background-color: #000;
+  width: 300px;
+  height: 1px;
+  margin-left: 45px;
+}
+
+/* 이미지 등록 및 선택 */
+.img_box {
+  background-color: rgb(114, 173, 232);
+  width: 300px;
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 45px;
+}
+
+.choose_box {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 6px;
+  margin-left: 36px;
+  margin-right: 30px;
+}
+
+.choose_box .choose_1 {
+  background-color: rgb(168, 164, 164);
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.choose_box .choose_2 {
+  background-color: rgb(168, 164, 164);
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.choose_box .choose_3 {
+  background-color: rgb(168, 164, 164);
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  font-size: 26px;
+}
+
+/* 등록하기 버튼 */
+.put_btn {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 30px;
+  background-color: #000;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-left: 45px;
+}
