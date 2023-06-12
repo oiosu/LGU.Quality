@@ -10,3 +10,9 @@ body {
   width: 400px;
   height: 700px;
 }
+
+.nav {
+  background-color: gray;
+  width: 400px;
+  height: 30px;
+}
