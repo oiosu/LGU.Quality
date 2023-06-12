@@ -1,0 +1,42 @@
+/* 기본 구조 */
+body {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.step3_box {
+  margin-top: 80px;
+  background-color: #fff;
+  width: 400px;
+  height: 700px;
+}
+
+/* nav 부분 */
+.nav {
+  background-color: gray;
+  width: 400px;
+  height: 28px;
+}
+
+span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* 큰제목  및 작은 제목*/
+.time_1 {
+  margin-left: 22px;
+  color: #fff;
+}
+
+.time_2 {
+  margin-left: 190px;
+  color: #fff;
+}
